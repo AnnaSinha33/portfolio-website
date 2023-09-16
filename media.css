@@ -1,9 +1,11 @@
 @media screen and (max-width: 600px) {
     
     .title {
-        text-align: center;
-        margin-left: 0;
-        margin-right: 0;
+        font-size: 3rem;
+    }
+
+    .text {
+        font-size: 3rem;
     }
 
     .about-container {
@@ -20,7 +22,7 @@
     }
 
     .progress-bar {
-        padding: 0.5rem;
+        padding: 0.4rem !important;
     }
 
     .portfolios {
